@@ -45,7 +45,7 @@
             <category android:name="android.intent.category.HOME" />
         </intent>
         <!-- Themes stub package -->
-        <package android:name="com.google.android.apps.customization.pixel" />
+        <package android:name="com.spark.customization" />
     </queries>
 
     <uses-permission android:name="com.android.launcher3.permission.READ_SETTINGS" />
